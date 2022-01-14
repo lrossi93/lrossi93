@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi, I'm Lorenzo
+This GitHub page collects most of my University and personal projects. Have a look around and text me for further information!
+
+```
+Happy coding!
+```
 
 <!--
 **lrossi93/lrossi93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
