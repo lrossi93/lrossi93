@@ -1,11 +1,10 @@
 ## Studies
-- 🎓 BSc in Computer Science at [University of Eastern Piedmont](https://www.uniupo.it/en);
-- 🎓⏳ MSc in Computer Science at [University of Eastern Piedmont](https://www.uniupo.it/en);
+- BSc in Computer Science at [University of Eastern Piedmont](https://www.uniupo.it/en)
+- MSc in Computer Science at [University of Eastern Piedmont](https://www.uniupo.it/en) (ongoing)
 
 ## Work
-- e-learning assistant at [CRIMEDIM](https://www.crimedim.uniupo.it/);
-- [Angular](https://angular.io/) freelance developer
-
+- IT Specialist at [CRIMEDIM](https://www.crimedim.uniupo.it/)
+- [Angular](https://angular.io/) Freelance Developer
 
 ```c
 #include <stdio.h>
