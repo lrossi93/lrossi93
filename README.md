@@ -4,7 +4,7 @@
 
 ## Work
 - IT Specialist and eLearning Manager at [CRIMEDIM](https://www.crimedim.uniupo.it/)
-- [Angular](https://angular.io/) Freelance Developer
+- Freelance IT consultant
 
 ## Currently learning
 - [Angular](https://angular.io/)
