@@ -1,12 +1,9 @@
-## Studies
-- BSc in Computer Science at [University of Eastern Piedmont](https://www.uniupo.it/en)
-- MSc in AI and Digital Innovation at [University of Eastern Piedmont](https://www.uniupo.it/en) (ongoing)
-
 ## Work
 - Freelance IT consultant
+- IT Teacher
+- Musician (Scottish Bagpipes)
 
-## Currently learning
+## Currently into
 - [Angular](https://angular.io/)
 - [Ionic](https://ionicframework.com/)
-- [PHP](https://www.php.net/)
-- [node.js](https://nodejs.org/en)
+- [Bootstrap](https://getbootstrap.com/)
