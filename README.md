@@ -1,9 +1,9 @@
 ## Work
-- Freelance IT consultant
-- IT Teacher
-- Musician (Scottish Bagpipes)
+- Freelance IT consultant && IT Teacher
+- Musician
 
-## Currently into
-- [Angular](https://angular.io/)
-- [Ionic](https://ionicframework.com/)
-- [Bootstrap](https://getbootstrap.com/)
+## Studies
+- Cybersecurity (MSc, ongoing)
+
+## Tools
+[#angular](https://angular.io/) [#ionic](https://ionicframework.com/) [#bootstrap](https://getbootstrap.com/) [#hugo](https://gohugo.io)
